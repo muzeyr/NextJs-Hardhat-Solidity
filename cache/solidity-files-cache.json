@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/uzeyrozcan/Desktop/web3/Croud-funding-starter-file/contracts/CrowdFunding.sol": {
+      "lastModificationDate": 1700244886386,
+      "contentHash": "9d427894fa4f341d6649e130b8d8e4f3",
+      "sourceName": "contracts/CrowdFunding.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "CrowdFunding"
+      ]
+    }
+  }
+}
